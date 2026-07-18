@@ -1,0 +1,77 @@
+/* Arillus brand palette
+   Terracotta #C4603A · Lavender #8E82B0 · Cream #F0E4D4
+*/
+
+:root {
+  --sl-color-accent-low: #f5ddd3;
+  --sl-color-accent: #c4603a;
+  --sl-color-accent-high: #7a3219;
+
+  /* Warm tint on nav and sidebar */
+  --sl-color-bg-nav: #faf5f2;
+  --sl-color-bg-sidebar: #faf5f2;
+
+  /* Lavender for visited/secondary links */
+  --sl-color-purple: #8e82b0;
+  --sl-color-purple-low: #ede9f6;
+  --sl-color-purple-high: #5a4f7a;
+}
+
+:root[data-theme='dark'] {
+  --sl-color-accent-low: #3c1a0d;
+  --sl-color-accent: #d4795a;
+  --sl-color-accent-high: #f0b49a;
+
+  /* Warm-tinted dark nav and sidebar */
+  --sl-color-bg-nav: #1e1612;
+  --sl-color-bg-sidebar: #1a1310;
+
+  /* Lavender for dark mode secondary */
+  --sl-color-purple: #a498c8;
+  --sl-color-purple-low: #1e1a2e;
+  --sl-color-purple-high: #d0c8e8;
+}
+
+/* Splash page hero: gradient background echoing the brand image */
+.hero {
+  background: linear-gradient(
+    135deg,
+    #c4603a 0%,
+    #8e82b0 50%,
+    #f0e4d4 100%
+  ) !important;
+  padding: 4rem clamp(1.5rem, 8vw, 6rem) !important;
+}
+
+.hero > .stack {
+  padding: 0 !important;
+}
+
+/* Ensure hero text stays readable over the gradient */
+.hero h1,
+.hero .tagline {
+  color: #fff !important;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+}
+
+/* Action buttons on hero */
+.hero .sl-link-button.primary {
+  background: #fff !important;
+  color: #c4603a !important;
+  border-color: #fff !important;
+}
+
+.hero .sl-link-button.primary:hover {
+  background: #f0e4d4 !important;
+}
+
+.hero .sl-link-button.minimal {
+  color: #fff !important;
+  border-color: rgba(255, 255, 255, 0.6) !important;
+  padding: 0.4375rem 1.125rem !important;
+}
+
+.hero .sl-link-button.minimal:hover {
+  background: rgba(255, 255, 255, 0.15) !important;
+  border-color: #fff !important;
+}

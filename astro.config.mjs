@@ -6,19 +6,45 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			title: 'Arillus Handbook',
+			social: [],
+			customCss: ['./src/styles/custom.css'],
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Company',
 					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: 'About Arillus', slug: 'company/about' },
+						{ label: 'Our Values', slug: 'company/values' },
 					],
 				},
 				{
-					label: 'Reference',
-					items: [{ autogenerate: { directory: 'reference' } }],
+					label: 'Team',
+					items: [
+						{ label: 'How We\'re Organized', slug: 'team/organization' },
+						{ label: 'Career Framework', slug: 'team/career-framework' },
+					],
+				},
+				{
+					label: 'Projects',
+					items: [
+						{ label: 'How We Run Projects', slug: 'projects/how-we-run-projects' },
+					],
+				},
+				{
+					label: 'People',
+					items: [
+						{ label: 'Performance & Growth', slug: 'people/performance-and-growth' },
+						{ label: 'Compensation & Benefits', slug: 'people/compensation' },
+						{ label: 'Leave & Time Off', slug: 'people/leave' },
+						{ label: 'Hiring', slug: 'people/hiring' },
+					],
+				},
+				{
+					label: 'Communication',
+					items: [
+						{ label: 'How We Communicate', slug: 'communication/how-we-communicate' },
+						{ label: 'Changing This Handbook', slug: 'communication/changing-this-handbook' },
+					],
 				},
 			],
 		}),

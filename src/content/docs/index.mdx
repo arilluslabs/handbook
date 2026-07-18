@@ -1,40 +1,25 @@
 ---
-title: Welcome to Starlight
-description: Get started building your docs site with Starlight.
-template: splash # Remove or comment out this line to display the site sidebar on this page.
+title: The Arillus Handbook
+description: The single source of truth for how Arillus Labs works.
+template: splash
 hero:
-  tagline: Congrats on setting up a new Starlight project!
-  image:
-    file: ../../assets/houston.webp
+  tagline: If it's not written here, it's not a rule.
   actions:
-    - text: Example Guide
-      link: /guides/example/
+    - text: About Arillus
+      link: /company/about/
       icon: right-arrow
-    - text: Read the Starlight docs
-      link: https://starlight.astro.build
-      icon: external
+    - text: How We Work
+      link: /projects/how-we-run-projects/
+      icon: right-arrow
       variant: minimal
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+import { CardGrid, LinkCard } from '@astrojs/starlight/components';
 
-## Next steps
-
-<CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
-	</Card>
-	<Card title="Change page layout" icon="document">
-		Delete `template: splash` in `src/content/docs/index.mdx` to display a
-		sidebar on this page.
-	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
-	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
-	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
-	</Card>
+<CardGrid>
+	<LinkCard title="Company" href="/company/about/" description="Who we are, what we do, and why we do it — plus the six values that guide every decision." />
+	<LinkCard title="Team" href="/team/organization/" description="How we're organized across functions, and the career ladder from L1 to L6." />
+	<LinkCard title="Projects" href="/projects/how-we-run-projects/" description="The matrix model, project team template, staffing rules, and how reporting works." />
+	<LinkCard title="People" href="/people/performance-and-growth/" description="Performance, compensation, leave policy, and how we hire." />
+	<LinkCard title="Communication" href="/communication/how-we-communicate/" description="Ways of working, tools, meeting norms, and how to change this handbook." />
 </CardGrid>
