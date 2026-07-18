@@ -7,4 +7,4 @@ description: Appraisal cycles, 1:1s, and learning & development at Arillus.
 
 <!-- TO FILL — 1:1s: Recommended norm: every person has a monthly 1:1 with their function head (or intermediate manager once those exist). Project leads talk to people daily; function 1:1s are about growth, not status. -->
 
-<!-- TO FILL — Learning & development: Bench time policy (people between projects do training, internal tools, pre-sales support), any learning budget, certifications you'll sponsor. -->
+<!-- TO FILL — Learning & development: Bench time policy (people between projects do training, internal tools, or other work), any learning budget, certifications you'll sponsor. -->

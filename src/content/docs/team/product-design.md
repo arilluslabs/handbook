@@ -50,7 +50,6 @@ Each level assumes everything in the levels below it.
 - Owns product direction across a complex or large engagement: strategy, scope, backlog and stakeholder management
 - Manages senior client stakeholders directly — navigates competing priorities, difficult conversations, and changing requirements without escalating to a partner
 - Handles pushback, scope disputes and commercial implications of requirement changes
-- Contributes to pre-sales: scoping new work, writing proposals, sizing engagements
 - Sets the quality bar for requirements across the projects they touch
 
 ### L5 — Senior PM / Product Consultant
@@ -58,7 +57,6 @@ Each level assumes everything in the levels below it.
 *Scope: multiple engagements*
 
 - Acts as Product Owner across several simultaneous engagements
-- Shapes solutions and scope in pre-sales before a project begins — clients trust their product judgement
 - Mentors L1–L3 product team members; owns their growth and development
 - Sets product practice standards across the firm: how we do discovery, how we write requirements, how we manage scope
 - Measured by the quality of the product decisions made across all their engagements, not just one
@@ -112,14 +110,12 @@ Each level assumes everything in the levels below it.
 - Sets UX and visual direction across multiple concurrent projects (fractional: direction at kickoff, reviews at milestones)
 - Mentors the design team; owns their growth and quality of output
 - Handles design conversations with senior clients directly: explains trade-offs, defends decisions, manages feedback
-- Contributes to pre-sales: shapes the design approach for new engagements
 
 ### L5 — Senior Lead Designer / Design Manager
 
 *Scope: multiple engagements*
 
 - Spans several active engagements as design lead and quality reviewer
-- Shapes design thinking in pre-sales; clients trust their judgement on experience and usability
 - Mentors L1–L3 designers; sets design standards for the firm
 - Measured by the quality and consistency of design output across all engagements
 

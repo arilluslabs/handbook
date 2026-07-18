@@ -54,7 +54,6 @@ Each level assumes everything in the levels below it.
 - Tech-leads complex or large projects; owns architecture decisions within them
 - Acts as **fractional Architect/Reviewer** for projects led by L3s — reviews approach at kickoff, checks in at major milestones
 - Handles difficult technical client conversations independently: pushback, trade-offs, "can we do this in half the time?"
-- Contributes to pre-sales estimation and technical scoping
 - Raises the team's engineering bar through documented standards and patterns, not just personal output
 - Identifies systemic problems across projects and drives solutions, not just workarounds
 
@@ -65,7 +64,6 @@ Each level assumes everything in the levels below it.
 - Provides technical oversight across a portfolio of active projects
 - Escalation point for the firm's hardest technical problems — the person others go to when they're genuinely stuck
 - Owns cross-project decisions: technology choices, reusable components, shared libraries, engineering standards
-- Leads pre-sales solutioning routinely; clients trust their technical judgement
 - First Engineering Manager: owns appraisals and growth plans for L1–L3 engineers
 - Measured by the capability of the engineers around them, not just their own output
 

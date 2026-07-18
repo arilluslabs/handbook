@@ -51,7 +51,6 @@ Each level assumes everything in the levels below it.
 - Acts as **Engagement Owner** across several concurrent engagements: owns scope, commercials, client relationships and final escalations
 - Manages scope change requests end-to-end: impact assessment, commercial negotiation, documentation and sign-off
 - First management layer for coordinators: owns their appraisals, growth conversations and day-to-day support
-- Contributes to pre-sales: scopes delivery effort for new engagements, sizes coordinator resourcing
 - Identifies and fixes systemic delivery problems across the portfolio — not just project-by-project
 
 ### L5 — Senior Delivery Manager
@@ -59,7 +58,6 @@ Each level assumes everything in the levels below it.
 *Scope: the firm's project portfolio*
 
 - Owns a portfolio of client accounts at the relationship level: client health, renewal risk, growth opportunities
-- Leads pre-sales and estimation for delivery across multiple engagements simultaneously
 - Sets delivery standards and processes for the firm; ensures consistency of client experience
 - Develops the L3–L4 layer: mentors Delivery Managers, helps them grow into multi-account ownership
 - Measured by client satisfaction, delivery margin, and the capability of the coordinators around them
