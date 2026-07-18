@@ -5,12 +5,12 @@ description: Partners, functions, and how they fit together at Arillus.
 
 ## Partners
 
-Arillus Labs LLP is led by two partners. Partners sit outside the career ladder and are accountable for the firm as a whole.
+Arillus is managed by partners, each owning one or more functions. Currently, the partners are:
 
-| Partner | Title | Accountable for |
-|---|---|---|
-| Anand | Partner, Engineering & Technology | Engineering & QA function; technical direction of the firm |
-| Anandu | Partner, Product & Design | Product & Design function; design and product direction of the firm |
+| Partner | Function |
+|---|---|
+| Anand | Engineering & Technology |
+| Anandu | Product & Design, Delivery |
 
 <!-- TO DECIDE — Delivery function head: We discussed that every function needs exactly one named head. Delivery must be explicitly assigned to one partner (the earlier working assumption was Anandu). Record the decision here, e.g., "Delivery reports to Anandu until a Delivery Manager (L4) is appointed." Also add a short "Partner responsibilities" list: who signs off hires/promotions per function, who is the escalation point for which accounts. -->
 

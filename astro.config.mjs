@@ -21,7 +21,10 @@ export default defineConfig({
 					label: 'Team',
 					items: [
 						{ label: 'How We\'re Organized', slug: 'team/organization' },
-						{ label: 'Career Framework', slug: 'team/career-framework' },
+						{ label: 'Engineering & QA', slug: 'team/engineering' },
+						{ label: 'Product & Design', slug: 'team/product-design' },
+						{ label: 'Delivery', slug: 'team/delivery' },
+						{ label: 'Career Growth', slug: 'team/career-growth' },
 					],
 				},
 				{
