@@ -31,6 +31,7 @@ export default defineConfig({
 					label: 'Projects',
 					items: [
 						{ label: 'How We Run Projects', slug: 'projects/how-we-run-projects' },
+						{ label: 'Kickstarting a Project', slug: 'projects/kickstarting-a-project' },
 					],
 				},
 				{
@@ -45,7 +46,9 @@ export default defineConfig({
 				{
 					label: 'Communication',
 					items: [
+						{ label: 'Tools We Use', slug: 'communication/tools' },
 						{ label: 'How We Communicate', slug: 'communication/how-we-communicate' },
+						{ label: 'Meeting Notes', slug: 'communication/meeting-notes' },
 						{ label: 'Changing This Handbook', slug: 'communication/changing-this-handbook' },
 					],
 				},

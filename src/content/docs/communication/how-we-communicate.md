@@ -26,7 +26,9 @@ Everything else — status updates, progress reports, requirement clarifications
 
 - Write a clear agenda before sending the invite. If you can't write the agenda, you're not ready to call the meeting.
 - Set a time limit and mean it.
+- Schedule the meeting in **Zoho Calendar**, add all attendees, and make sure email invites are sent — don't just share a link on Slack and expect people to add it themselves.
 - Share any context, documents, or background that people need beforehand.
+- Ensure someone is assigned to take notes before the meeting starts. See [Meeting Notes](/communication/meeting-notes/).
 
 ### If you're attending a meeting
 
