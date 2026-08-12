@@ -17,7 +17,7 @@ Each level assumes everything in the levels below it.
 
 ### L1 — Associate Product Analyst
 
-*Scope: requirements tasks within a project*
+*Impact: individual task level*
 
 - Gathers requirements through interviews, workshops and documentation under a senior's guidance
 - Writes user stories with help — understands the format but needs direction on completeness and edge cases
@@ -27,7 +27,7 @@ Each level assumes everything in the levels below it.
 
 ### L2 — Product Analyst / Business Analyst
 
-*Scope: a module or small project*
+*Impact: individual / project level*
 
 - Independently owns requirements for a module or small project end-to-end
 - Writes user stories with clear acceptance criteria that developers and QA can work from without ambiguity
@@ -37,7 +37,7 @@ Each level assumes everything in the levels below it.
 
 ### L3 — Senior Analyst / Product Lead
 
-*Scope: a full project*
+*Impact: project level*
 
 - Owns discovery and scope definition for a complete project: workshops, requirements, sign-off
 - Runs client workshops and requirements sessions independently — structures them, facilitates them, drives them to decisions
@@ -47,7 +47,7 @@ Each level assumes everything in the levels below it.
 
 ### L4 — Product Manager
 
-*Scope: a large engagement or multiple smaller ones*
+*Impact: multiple projects*
 
 - Owns product direction across a complex or large engagement: strategy, scope, backlog and stakeholder management
 - Manages senior client stakeholders directly — navigates competing priorities, difficult conversations, and changing requirements without escalating to a partner
@@ -57,7 +57,7 @@ Each level assumes everything in the levels below it.
 
 ### L5 — Senior Product Manager
 
-*Scope: multiple engagements*
+*Impact: multiple projects / company*
 
 - Oversees several simultaneous engagements as Product Lead or Engagement Owner
 - Mentors L1–L3 product team members; owns their growth and development
@@ -66,7 +66,7 @@ Each level assumes everything in the levels below it.
 
 ### L6 — Principal / Head of Product
 
-*Scope: the firm*
+*Impact: company level*
 
 - Defines the firm's product practice: methodology, tooling, templates, hiring bar
 - Trusted by clients as the most senior product voice in the firm
@@ -79,7 +79,7 @@ Each level assumes everything in the levels below it.
 
 ### L1 — Associate Designer
 
-*Scope: design tasks within a project*
+*Impact: individual task level*
 
 - Produces screens and assets under close guidance from a senior designer
 - Follows the established design system; does not invent new patterns without approval
@@ -88,7 +88,7 @@ Each level assumes everything in the levels below it.
 
 ### L2 — Designer
 
-*Scope: a module or small project*
+*Impact: individual / project level*
 
 - Independently owns UI/UX for a module or small project
 - Maintains and extends the design system within the bounds set by the senior designer
@@ -98,7 +98,7 @@ Each level assumes everything in the levels below it.
 
 ### L3 — Senior Designer
 
-*Scope: a full project*
+*Impact: project level*
 
 - Owns UX and visual direction for a complete project end-to-end
 - Sets the design language for a project: patterns, components, interaction models
@@ -108,7 +108,7 @@ Each level assumes everything in the levels below it.
 
 ### L4 — Lead Designer
 
-*Scope: multiple projects*
+*Impact: multiple projects*
 
 - Sets UX and visual direction across multiple concurrent projects (fractional: direction at kickoff, reviews at milestones)
 - Mentors the design team; owns their growth and quality of output
@@ -116,7 +116,7 @@ Each level assumes everything in the levels below it.
 
 ### L5 — Senior Lead Designer / Design Manager
 
-*Scope: multiple engagements*
+*Impact: multiple projects / company*
 
 - Spans several active engagements as design lead and quality reviewer
 - Mentors L1–L3 designers; sets design standards for the firm
@@ -124,7 +124,7 @@ Each level assumes everything in the levels below it.
 
 ### L6 — Principal Designer / Head of Design
 
-*Scope: the firm*
+*Impact: company level*
 
 - Defines the firm's design practice: methodology, tooling, standards, hiring bar
 - Trusted by clients as the most senior design voice in the firm
