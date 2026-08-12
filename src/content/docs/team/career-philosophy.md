@@ -3,9 +3,7 @@ title: Career Philosophy
 description: How Arillus thinks about career growth — Impact, Leverage, and the two paths from L3 onwards.
 ---
 
-## Start Here
-
-Before looking at levels, titles, or ladders, understand the philosophy behind them. Every career decision at Arillus — what level you're at, whether you become a Group Lead, how you're assessed — flows from two ideas: **Impact** and **Leverage**.
+At Arillus, we believe your career is shaped across two axes — **Impact** and **Leverage**. Impact is about how far your contribution is felt, and Leverage is about what you use to create that impact. Remember these two words.
 
 ---
 
