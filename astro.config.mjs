@@ -7,7 +7,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Arillus Handbook',
-			favicon: '/favicon.jpeg',
+			favicon: '/favicon.png',
 			logo: {
 				src: './src/assets/arillus-logo.png',
 				alt: 'Arillus',
