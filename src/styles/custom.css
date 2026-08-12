@@ -68,6 +68,15 @@
   width: 2px;
   background: linear-gradient(to bottom, #e0642b, #e0642b57 65%, transparent);
   border-radius: 2px 0 0 2px;
+  transition: background 0.2s ease;
+}
+
+.sl-link-card:hover {
+  border-color: #e0642b !important;
+}
+
+.sl-link-card:hover::before {
+  background: #e0642b;
 }
 
 /* ── Hero gradient left border ────────────────────────────── */
@@ -103,6 +112,9 @@ nav.sidebar a[aria-current='page'] {
   border-radius: 0 4px 4px 0;
 }
 
+/* ── Hide theme switcher ──────────────────────────────────── */
+starlight-theme-select { display: none !important; }
+
 /* ── Logo ─────────────────────────────────────────────────── */
 .site-title img {
   height: 1.5rem;
@@ -119,10 +131,13 @@ nav.sidebar a[aria-current='page'] {
   padding: 0 !important;
 }
 
-.hero h1,
+.hero h1 {
+  color: #ffffff !important;
+  white-space: nowrap;
+}
+
 .hero .tagline {
   color: #ffffff !important;
-  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
 }
 
 /* Hero buttons */
