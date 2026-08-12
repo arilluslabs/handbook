@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;1,400&display=swap');
+
 /* Arillus dark theme
    Background #111111 · Body text #98908c · Links #f09a42 · Titles #ffffff
 */
@@ -33,6 +35,7 @@
 
   color-scheme: dark;
   --sl-text-5xl: 1.98rem;
+  --sl-font: 'Space Grotesk', sans-serif;
 }
 
 /* ── Typography ───────────────────────────────────────────── */
@@ -47,6 +50,7 @@
 .sl-markdown-content th {
   font-size: 14px !important;
   line-height: 1.7;
+  font-family: 'IBM Plex Sans', system-ui, sans-serif;
 }
 
 /* ── LinkCard gradient left border ───────────────────────── */
@@ -107,12 +111,7 @@ nav.sidebar a[aria-current='page'] {
 
 /* ── Hero ─────────────────────────────────────────────────── */
 .hero {
-  background: linear-gradient(
-    135deg,
-    #111111 0%,
-    #1c1c1c 55%,
-    #2d1e00 100%
-  ) !important;
+  background: url('../assets/hero-bg.jpg') center / cover no-repeat !important;
   padding: 4rem clamp(1.5rem, 8vw, 6rem) !important;
 }
 
