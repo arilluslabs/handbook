@@ -18,7 +18,7 @@ As you grow, your impact is expected to reach further:
 | Level | Impact |
 |---|---|
 | L0 – L2 | Individual or project level — your work affects your immediate task or project |
-| L3 – L4 | Multi-project level — your contribution is felt across several projects simultaneously |
+| L3 – L4 | Multi-project level — your thinking, standards, and decisions influence how other projects are shaped, even ones you're not directly working on |
 | L5 – L6 | Company level — your impact shapes how the entire organisation works and grows |
 
 Promotion at Arillus is not about time served. It's about demonstrating that your impact has already expanded to the next level — and sustaining it there.
