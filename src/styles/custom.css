@@ -1,44 +1,117 @@
-/* Arillus brand palette
-   Terracotta #C4603A · Lavender #8E82B0 · Cream #F0E4D4
+/* Arillus dark theme
+   Background #111111 · Body text #98908c · Links #f09a42 · Titles #ffffff
 */
 
-:root {
-  --sl-color-accent-low: #f5ddd3;
-  --sl-color-accent: #c4603a;
-  --sl-color-accent-high: #7a3219;
-
-  /* Warm tint on nav and sidebar */
-  --sl-color-bg-nav: #faf5f2;
-  --sl-color-bg-sidebar: #faf5f2;
-
-  /* Lavender for visited/secondary links */
-  --sl-color-purple: #8e82b0;
-  --sl-color-purple-low: #ede9f6;
-  --sl-color-purple-high: #5a4f7a;
-}
-
+/* ── Core palette ─────────────────────────────────────────── */
+:root,
+:root[data-theme='light'],
 :root[data-theme='dark'] {
-  --sl-color-accent-low: #3c1a0d;
-  --sl-color-accent: #d4795a;
-  --sl-color-accent-high: #f0b49a;
+  /* Accent — amber orange used for links, active nav, highlights */
+  --sl-color-accent-low: #2d1e00;
+  --sl-color-accent: #f09a42;
+  --sl-color-accent-high: #ffd09a;
 
-  /* Warm-tinted dark nav and sidebar */
-  --sl-color-bg-nav: #1e1612;
-  --sl-color-bg-sidebar: #1a1310;
+  /* Backgrounds */
+  --sl-color-bg: #111111;
+  --sl-color-bg-nav: #0d0d0d;
+  --sl-color-bg-sidebar: #0d0d0d;
 
-  /* Lavender for dark mode secondary */
-  --sl-color-purple: #a498c8;
-  --sl-color-purple-low: #1e1a2e;
-  --sl-color-purple-high: #d0c8e8;
+  /* Text scale */
+  --sl-color-gray-1: #ffffff;    /* titles, headings */
+  --sl-color-gray-2: #98908c;    /* body text */
+  --sl-color-gray-3: #6a6460;    /* muted / secondary text */
+  --sl-color-gray-4: #3a3430;    /* borders, dividers */
+  --sl-color-gray-5: #242020;    /* subtle bg */
+  --sl-color-gray-6: #1a1818;    /* card bg */
+  --sl-color-gray-7: #0d0d0d;    /* deepest bg */
+
+  --sl-color-white: #ffffff;
+  --sl-color-black: #0d0d0d;
+
+  --sl-color-hairline-light: #242020;
+  --sl-color-hairline-shade: #1a1818;
+
+  color-scheme: dark;
+  --sl-text-5xl: 1.98rem;
 }
 
-/* Splash page hero: gradient background echoing the brand image */
+/* ── Typography ───────────────────────────────────────────── */
+.sl-markdown-content h1 { font-size: 23px !important; line-height: 1.3; }
+.sl-markdown-content h2 { font-size: 23px !important; line-height: 1.3; }
+.sl-markdown-content h3 { font-size: 16px !important; line-height: 1.4; }
+.sl-markdown-content h4 { font-size: 14px !important; }
+
+.sl-markdown-content p,
+.sl-markdown-content li,
+.sl-markdown-content td,
+.sl-markdown-content th {
+  font-size: 14px !important;
+  line-height: 1.7;
+}
+
+/* ── LinkCard gradient left border ───────────────────────── */
+.sl-link-card {
+  position: relative;
+  border-left: none !important;
+}
+
+.sl-link-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 2px;
+  background: linear-gradient(to bottom, #e0642b, #e0642b57 65%, transparent);
+  border-radius: 2px 0 0 2px;
+}
+
+/* ── Hero gradient left border ────────────────────────────── */
+.hero {
+  position: relative;
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 3px;
+  background: linear-gradient(to bottom, #e0642b, #e0642b57 60%, transparent);
+}
+
+/* ── Sidebar active item ──────────────────────────────────── */
+.sidebar-content a[aria-current='page'],
+nav.sidebar a[aria-current='page'] {
+  background: transparent !important;
+  border-bottom: 2px solid #f09a42;
+  color: #f09a42 !important;
+  border-radius: 0;
+}
+
+/* ── Blockquotes ──────────────────────────────────────────── */
+.sl-markdown-content blockquote {
+  border-left: 3px solid #e0642b !important;
+  background: #e0642b21 !important;
+  padding: 0.75rem 1rem;
+  margin: 1rem 0;
+  border-radius: 0 4px 4px 0;
+}
+
+/* ── Logo ─────────────────────────────────────────────────── */
+.site-title img {
+  height: 1.5rem;
+  width: auto;
+}
+
+/* ── Hero ─────────────────────────────────────────────────── */
 .hero {
   background: linear-gradient(
     135deg,
-    #c4603a 0%,
-    #8e82b0 50%,
-    #f0e4d4 100%
+    #111111 0%,
+    #1c1c1c 55%,
+    #2d1e00 100%
   ) !important;
   padding: 4rem clamp(1.5rem, 8vw, 6rem) !important;
 }
@@ -47,31 +120,32 @@
   padding: 0 !important;
 }
 
-/* Ensure hero text stays readable over the gradient */
 .hero h1,
 .hero .tagline {
-  color: #fff !important;
-  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+  color: #ffffff !important;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
 }
 
-/* Action buttons on hero */
+/* Hero buttons */
 .hero .sl-link-button.primary {
-  background: #fff !important;
-  color: #c4603a !important;
-  border-color: #fff !important;
+  background: #f09a42 !important;
+  color: #111111 !important;
+  border-color: #f09a42 !important;
+  font-weight: 600;
 }
 
 .hero .sl-link-button.primary:hover {
-  background: #f0e4d4 !important;
+  background: #d4802a !important;
+  border-color: #d4802a !important;
 }
 
 .hero .sl-link-button.minimal {
-  color: #fff !important;
-  border-color: rgba(255, 255, 255, 0.6) !important;
+  color: #ffffff !important;
+  border-color: rgba(255, 255, 255, 0.4) !important;
   padding: 0.4375rem 1.125rem !important;
 }
 
 .hero .sl-link-button.minimal:hover {
-  background: rgba(255, 255, 255, 0.15) !important;
-  border-color: #fff !important;
+  background: rgba(255, 255, 255, 0.08) !important;
+  border-color: rgba(255, 255, 255, 0.7) !important;
 }

@@ -7,6 +7,11 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Arillus Handbook',
+			logo: {
+				src: './src/assets/arillus-logo.png',
+				alt: 'Arillus',
+				replacesTitle: true,
+			},
 			social: [],
 			customCss: ['./src/styles/custom.css'],
 			sidebar: [
@@ -21,9 +26,10 @@ export default defineConfig({
 					label: 'Team',
 					items: [
 						{ label: 'How We\'re Organized', slug: 'team/organization' },
+						{ label: 'Career Philosophy', slug: 'team/career-philosophy' },
+						{ label: 'Groups', slug: 'team/groups' },
 						{ label: 'Engineering & QA', slug: 'team/engineering' },
 						{ label: 'Product & Design', slug: 'team/product-design' },
-						{ label: 'Delivery', slug: 'team/delivery' },
 						{ label: 'Career Growth', slug: 'team/career-growth' },
 					],
 				},

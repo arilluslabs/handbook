@@ -5,9 +5,11 @@ description: How growth works at Arillus — levels, timelines, performance revi
 
 ## How Growth Works
 
-At Arillus, growth is not about time served. It's about expanding scope, autonomy and impact — and demonstrating that you're already operating at the next level before a promotion makes it official.
+At Arillus, growth is not about time served. It's about expanding your **impact** — and demonstrating that you're already operating at the next level before a promotion makes it official.
 
-Levels exist to be clear: what's expected of you now, what the next step looks like, and what "senior" actually means here. Your function head is your growth partner — they own your development, run your reviews, and will tell you directly where you are and what needs to change.
+Read the [Career Philosophy](/team/career-philosophy/) first if you haven't. It explains the concepts of Impact and Leverage that underpin everything here, and the two tracks available from L3 onwards.
+
+Levels exist to be clear: what's expected of you now, what the next step looks like, and what "senior" actually means here. Your Group Lead is your growth partner — they own your development, run your reviews, and will tell you directly where you are and what needs to change.
 
 ---
 
@@ -35,7 +37,7 @@ Annual reviews from year two onwards. Shorter, focused, evidence-based: what did
 
 ### How reviews work
 
-Your **functional manager** runs your review. They collect written feedback from your seniors and project coordinators across every project you touched in the period — not just one recent project — and calibrate that against your level's expectations.
+Your **functional manager** runs your review. They collect written feedback from your seniors and Product Leads across every project you touched in the period — not just one recent project — and calibrate that against your level's expectations.
 
 You'll receive a written summary after every review: what went well, what needs to change, and a clear growth plan for the next period. No surprises. If something is a concern, you'll hear it at the review — not for the first time in a later conversation.
 
@@ -45,6 +47,7 @@ You'll receive a written summary after every review: what went well, what needs 
 
 We have a clear sense of how fast we expect people to move:
 
+- **Intern → Associate (L0 → L1):** at end of internship, if joining full-time
 - **Associate → Mid-level (L1 → L2):** within 2 years
 - **Mid-level → Senior (L2 → L3):** within another 2 years
 

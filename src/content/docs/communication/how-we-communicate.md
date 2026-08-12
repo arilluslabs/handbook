@@ -26,7 +26,7 @@ Everything else — status updates, progress reports, requirement clarifications
 
 - Write a clear agenda before sending the invite. If you can't write the agenda, you're not ready to call the meeting.
 - Set a time limit and mean it.
-- Schedule the meeting in **Zoho Calendar**, add all attendees, and make sure email invites are sent — don't just share a link on Slack and expect people to add it themselves.
+- Schedule the meeting in **Zoho Calendar**, add all attendees, and make sure email invites are sent — don't just share a link on Cliq and expect people to add it themselves.
 - Share any context, documents, or background that people need beforehand.
 - Ensure someone is assigned to take notes before the meeting starts. See [Meeting Notes](/communication/meeting-notes/).
 
@@ -40,23 +40,23 @@ Unless it's a true open-ended brainstorm, come prepared. Think through the topic
 
 | Purpose | Tool |
 |---|---|
-| Async communication | Slack |
+| Async communication | Zoho Cliq |
 | Audio / video meetings | Zoho Meet |
 
 ---
 
 ## Daily Check-ins
 
-We do not have daily standups as meetings unless the project demands it. Instead, every team member posts a daily async check-in on Slack in their project channel.
+We do not have daily standups as meetings unless the project demands it. Instead, every team member posts a daily async check-in on Cliq in their project channel.
 
 **Format:**
 - What did you work on today?
 - What will you work on tomorrow?
 - Are you blocked? If yes — tag the right person.
 
-This keeps the team informed without pulling everyone into a call. It also creates a written record that's useful for the project coordinator and engagement owner.
+This keeps the team informed without pulling everyone into a call. It also creates a written record that's useful for the Product Lead and Engagement Owner.
 
-**Project coordinators:** check-ins are not a formality to scroll past. Read them. If someone's off-track, blocked and no one responded, or their "tomorrow" doesn't match what the plan says — that's on you to follow up.
+**Product Leads:** check-ins are not a formality to scroll past. Read them. If someone's off-track, blocked and no one responded, or their "tomorrow" doesn't match what the plan says — that's on you to follow up.
 
 ---
 
@@ -64,7 +64,7 @@ This keeps the team informed without pulling everyone into a call. It also creat
 
 One of the most damaging things you can do to a colleague in deep work is interrupt them with an unscheduled message asking for a quick call.
 
-**Do not send "Quick call?" on Slack.**
+**Do not send "Quick call?" on Cliq.**
 
 When someone is in the middle of focused work — writing code, designing, thinking through a problem — a sudden context switch doesn't cost a few minutes. It can cost hours of productive time to recover from. The interruption is rarely as urgent as it feels.
 
@@ -84,19 +84,29 @@ Do not send a message that is just "Hi" or "Hello" and wait for a response befor
 
 This forces the other person to stop what they're doing, respond, and then wait for your actual question — doubling the interruption for no reason.
 
-**Instead:** say hello and your question in the same message.
+**❌ Don't do this:**
 
-> "Hi Anand, quick question about the auth flow — are we planning to support Google SSO in the first release or is that phase 2?"
+| Message | Why it's a problem |
+|---|---|
+| *"Hi…"* | The other person can't reply without knowing what you need. Now you've made them respond twice — once to your "Hi", once to your actual question. |
+| *"free ano…"* | "Free depends on what you need" — they can't answer that without knowing what's coming. You've just created a pointless back-and-forth. |
 
-The other person can then read it once, think about it, and reply when it suits them. That's async done right.
+**✅ Do this instead:**
+
+| Message | Why it works |
+|---|---|
+| *"Hi Anand, quick question — are we supporting Google SSO in the first release or is that phase 2?"* | One message, one read, one reply. Done. |
+| *"Chetta, quick thing on the auth PR — the token expiry is set to 24h but I think it should be 1h for security. Can I change it or is there a reason it's 24h?"* | Context included. They can think and reply without a preamble. |
+
+The other person can read it once, think about it, and reply when it suits them. That's async done right.
 
 [Read more at nohello.net →](https://nohello.net/en/)
 
 ---
 
-## Slack Status Updates
+## Cliq Status Updates
 
-Set your Slack status so people know what you're doing without having to wonder why you're not responding.
+Set your Cliq status so people know what you're doing without having to wonder why you're not responding.
 
 This is a small habit with a big return: someone sees your status, understands the context, and either waits or knows they need to reach out differently. No guessing, no "are you there?", no unnecessary anxiety about an unanswered message.
 
@@ -109,4 +119,4 @@ This is a small habit with a big return: someone sees your status, understands t
 | Travelling | ✈️ | In transit. Responses may be delayed. |
 | Unwell | 🤒 | Sick day. Do not expect a response. |
 
-**Keep it current.** A status that says "Focus mode" at 6pm tells people nothing useful. Clear it when you're done, or use Slack's built-in expiry so it clears itself automatically.
+**Keep it current.** A status that says "Focus mode" at 6pm tells people nothing useful. Clear it when you're done, or use Cliq's built-in expiry so it clears itself automatically.

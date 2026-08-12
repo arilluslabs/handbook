@@ -3,13 +3,15 @@ title: Product & Design
 description: What the Product & Design function does at Arillus, and the career ladder from L1 to L6.
 ---
 
-Product & Design is responsible for understanding what to build and making it worth using. Product people own the problem: discovery, requirements, scope and the relationship between what the client needs and what we deliver. Designers own the experience: making solutions clear, usable and visually coherent. Both work across the full project lifecycle — from early discovery through to final handover.
+Product & Design is responsible for understanding what to build, making it worth using, and driving it to delivery. The function spans three tracks: product, design, and project leadership. Product people own the problem — discovery, requirements, scope and the client relationship. Designers own the experience — clarity, usability and visual coherence. Product Leads own the delivery momentum on each project — standups, priorities, team coordination and external communication.
 
 The function is led by **Anandu** (Partner, Product & Design).
 
 ---
 
 ## Product Ladder
+
+The product track has two paths that converge at senior levels: **Product Analyst** (requirements and discovery) and **Product Lead** (project coordination and delivery). Both paths sit within the Product & Design function and share the same level framework.
 
 Each level assumes everything in the levels below it.
 
@@ -33,33 +35,34 @@ Each level assumes everything in the levels below it.
 - Engages stakeholders directly to clarify requirements and resolve conflicting priorities
 - Flags scope creep and ambiguity early; doesn't let unclear requirements reach development
 
-### L3 — Senior Analyst / Associate PM
+### L3 — Senior Analyst / Product Lead
 
 *Scope: a full project*
 
 - Owns discovery and scope definition for a complete project: workshops, requirements, sign-off
 - Runs client workshops and requirements sessions independently — structures them, facilitates them, drives them to decisions
-- Can act as **Product Owner** on a standard engagement: owns the backlog, makes scope decisions with the client, and is the team's primary point of contact for requirement questions
+- **As Product Lead on a project:** owns the backlog priority, runs standups, is the external SPOC for project status, and handles day-to-day trade-offs
 - Mentors L1–L2 analysts; reviews their user stories and gives specific feedback
 - Handles scope change requests independently: assesses impact, communicates clearly, gets sign-off
 
 ### L4 — Product Manager
 
-*Scope: a large engagement*
+*Scope: a large engagement or multiple smaller ones*
 
 - Owns product direction across a complex or large engagement: strategy, scope, backlog and stakeholder management
 - Manages senior client stakeholders directly — navigates competing priorities, difficult conversations, and changing requirements without escalating to a partner
 - Handles pushback, scope disputes and commercial implications of requirement changes
-- Sets the quality bar for requirements across the projects they touch
+- Sets the quality bar for requirements and delivery across the projects they touch
+- Can act as Engagement Owner on standard projects
 
-### L5 — Senior PM / Product Consultant
+### L5 — Senior Product Manager
 
 *Scope: multiple engagements*
 
-- Acts as Product Owner across several simultaneous engagements
+- Oversees several simultaneous engagements as Product Lead or Engagement Owner
 - Mentors L1–L3 product team members; owns their growth and development
-- Sets product practice standards across the firm: how we do discovery, how we write requirements, how we manage scope
-- Measured by the quality of the product decisions made across all their engagements, not just one
+- Sets product practice standards across the firm: how we do discovery, how we write requirements, how we manage scope and delivery
+- Measured by the quality of decisions and delivery across all their engagements
 
 ### L6 — Principal / Head of Product
 
