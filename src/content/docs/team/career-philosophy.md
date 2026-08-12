@@ -21,7 +21,7 @@ As you grow, your impact is expected to reach further:
 | L3 – L4 | Multi-project level — your thinking, standards, and decisions influence how other projects are shaped, even ones you're not directly working on |
 | L5 – L6 | Company level — your impact shapes how the entire organisation works and grows |
 
-Promotion at Arillus is not about time served. It's about demonstrating that your impact has already expanded to the next level — and sustaining it there.
+> Promotion at Arillus is not about time served. It's about demonstrating that your impact has already expanded to the next level — and sustaining it there. A good way to think about it: am I impacting a single project I'm fully working on, or am I impacting the success of several projects — or a major portion of the engineers in the company?
 
 ---
 

@@ -37,7 +37,7 @@ Annual reviews from year two onwards. Shorter, focused, evidence-based: what did
 
 ### How reviews work
 
-Your **functional manager** runs your review. They collect written feedback from your seniors and Product Leads across every project you touched in the period — not just one recent project — and calibrate that against your level's expectations.
+Your **group lead** or **function lead** runs your review. They collect written feedback from your seniors and Product Leads across every project you touched in the period — not just one recent project — and calibrate that against your level's expectations.
 
 You'll receive a written summary after every review: what went well, what needs to change, and a clear growth plan for the next period. No surprises. If something is a concern, you'll hear it at the review — not for the first time in a later conversation.
 
@@ -49,7 +49,7 @@ We have a clear sense of how fast we expect people to move:
 
 - **Intern → Associate (L0 → L1):** at end of internship, if joining full-time
 - **Associate → Mid-level (L1 → L2):** within 2 years
-- **Mid-level → Senior (L2 → L3):** within another 2 years
+- **Mid-level → Senior (L2 → L3):** within another 2-3 years
 
 These aren't hard deadlines — someone growing slightly faster or slightly slower is normal. But if someone hasn't levelled up within these windows, we don't assume they need more time. We ask a harder question: is this the right place for your growth?
 

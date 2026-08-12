@@ -11,8 +11,8 @@ Arillus uses a **matrix model**: functions are your permanent home; project team
 
 | Role | Function / Level | Duty |
 |---|---|---|
-| Product Lead | Product, L3+ | Owns the what — backlog priority, day-to-day trade-offs, external SPOC for client and Engagement Owner |
-| Tech Lead | Engineering, L3+ | Owns the how — technical decisions, code review, unblocking, codes the harder parts |
+| Product Lead | Product, L3+ | <strong>Owns the what</strong> — backlog priority, day-to-day trade-offs, external SPOC for client and Engagement Owner |
+| Tech Lead | Engineering, L3+ | <strong>Owns the how</strong> — technical decisions, code review, unblocking, codes the harder parts |
 | Developers | Engineering, L1–L3 | Build, test and deliver |
 | QA | L1–L2 | Executes test plans, verifies releases, reports defects |
 | Designer | Design phase | Produces screens and assets, then rolls off |

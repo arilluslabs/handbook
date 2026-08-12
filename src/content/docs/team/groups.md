@@ -34,3 +34,5 @@ A Group Lead is not a people manager in the traditional sense. They are still an
 Your group is not your project team. The people you work with day-to-day on a project are assembled for that project and will change. Your group is stable — it's the consistent thread through your time at Arillus, regardless of which projects you move through.
 
 Group discussions and sessions are not project standups. They're about your field, not your sprint.
+
+A group is also not a club where you optionally meet and talk about whatever is happening in the industry. That framing makes it feel like a side-hustle — something you can dip into when you feel like it and skip when you're busy. It isn't. The group is a professional structure with real ownership, real accountability, and a direct line to how you grow and how you're assessed at Arillus.
