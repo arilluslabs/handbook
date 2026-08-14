@@ -28,7 +28,7 @@ export default defineConfig({
 					items: [
 						{ label: 'How We\'re Organized', slug: 'team/organization' },
 						{ label: 'Career Philosophy', slug: 'team/career-philosophy' },
-						{ label: 'Groups', slug: 'team/groups' },
+						{ label: 'Groups & Clusters', slug: 'team/groups' },
 						{ label: 'Engineering & QA', slug: 'team/engineering' },
 						{ label: 'Product & Design', slug: 'team/product-design' },
 						{ label: 'Career Growth', slug: 'team/career-growth' },

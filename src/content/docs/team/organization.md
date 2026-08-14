@@ -19,11 +19,15 @@ Every Arillusian permanently belongs to one function. Your function is your prof
 1. **Engineering & QA**
 2. **Product & Design**
 
+## Clusters
+
+As a function grows, related groups are organised into **clusters** — a mid-level structure that brings together groups working in the same broader area of capability. A **Cluster Lead** oversees the Group Leads within their cluster, aligns capability direction, and represents the cluster at the function level. Clusters are not present in every function at every stage — they emerge when the number of groups makes coordination harder without an intermediate layer.
+
 ## Groups
 
-Within each function, people are organised into smaller **groups** based on their specialisation — for example, backend, Flutter, or frontend within Engineering. Your group is where you grow in your field, stay current with trends, and are supported in your career. Each group has a **Group Lead** who acts as your functional manager for appraisals and growth.
+Within each function (and cluster, where one exists), people are organised into smaller **groups** based on their specialisation — for example, backend, Flutter, or frontend within Engineering. Your group is where you grow in your field, stay current with trends, and are supported in your career. Each group has a **Group Lead** who acts as your functional manager for appraisals and growth.
 
-See [Groups](/team/groups/) for the full detail.
+See [Groups](/team/groups/) for the full detail on Groups, Clusters, and the respective Lead roles.
 
 ## Project Teams
 
